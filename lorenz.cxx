@@ -14,7 +14,7 @@ int main() {
 	double r[3];
 	r[0] = 1.0;			// x-coordinate
 	r[1] = 1.0;			// y-coordinate
-	r[2] = 2.0;			// z-coordinate
+	r[2] = 1.0;			// z-coordinate
 
 	const double dt = 0.001;
 	const int t_end = 100;
